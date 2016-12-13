@@ -1,0 +1,2229 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"contr",
+				"controller\tAngularJS"
+			],
+			[
+				"rou",
+				"$routeProvider\tAngularJS"
+			],
+			[
+				"$route",
+				"$routeProvider\tAngularJS"
+			],
+			[
+				"li",
+				"link\t(ActivityList.cshtml)"
+			],
+			[
+				"save",
+				"saveSort"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"act",
+				"activity"
+			],
+			[
+				"initil",
+				"initialized\t(ActivitiesController.js)"
+			],
+			[
+				"this",
+				"thisActivity"
+			],
+			[
+				"loa",
+				"loading"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"complete",
+				"completeActivities"
+			],
+			[
+				"task",
+				"taskIds"
+			],
+			[
+				"activy",
+				"activityData"
+			],
+			[
+				"tas",
+				"taskIds"
+			],
+			[
+				"acti",
+				"activityData"
+			],
+			[
+				"ac",
+				"activityEntities"
+			],
+			[
+				"value",
+				"value"
+			],
+			[
+				"val",
+				"value\tAngular.js"
+			],
+			[
+				"cu",
+				"currentPage"
+			],
+			[
+				"map",
+				"mapActivity"
+			],
+			[
+				"mod",
+				"modifiedIds"
+			],
+			[
+				"sta",
+				"state"
+			],
+			[
+				"$t",
+				"$timeout"
+			],
+			[
+				"acctr",
+				"activitiesCtrl"
+			],
+			[
+				"max",
+				"maxResultsPerPage"
+			],
+			[
+				"switch",
+				"switch-setting\t(custom.css)"
+			],
+			[
+				"$tme",
+				"$timeout"
+			],
+			[
+				"bud",
+				"budgetHours"
+			],
+			[
+				"app",
+				"apply\tmethod.apply()"
+			],
+			[
+				"actitoc",
+				"activityToChangeDueDate"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"hidden",
+				"ov-hidden\t ui.css"
+			],
+			[
+				"ng-cl",
+				"ng-click"
+			],
+			[
+				"contor",
+				"controller"
+			],
+			[
+				"curr",
+				"currentSelectedCompany"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"tab",
+				"tabs"
+			],
+			[
+				"m-t-",
+				"m-t-20\t ui.css"
+			],
+			[
+				"m-l-",
+				"m-l-20\t ui.css"
+			],
+			[
+				"lo",
+				"loading"
+			],
+			[
+				"sat",
+				"staffMember"
+			],
+			[
+				"un",
+				"unassignedStaff\t(OfficesSettingsController.js)"
+			],
+			[
+				"hi",
+				"hideNotificationMessage\t(CompanyManagementController.js)"
+			],
+			[
+				"notifi",
+				"notificationTypeEnum"
+			],
+			[
+				"$scope",
+				"$scope"
+			],
+			[
+				"CONTRO",
+				"controller\tAngularJS"
+			],
+			[
+				"len",
+				"length\t(ActivitiesController.js)"
+			],
+			[
+				"CREA",
+				"CREATED_DATE\t(mainModule.js)"
+			],
+			[
+				"Due",
+				"DueDate\t(TasksController.js)"
+			],
+			[
+				"Crea",
+				"CreationDate\t(TasksController.js)"
+			],
+			[
+				"para",
+				"paramsForSearch"
+			],
+			[
+				"resul",
+				"result"
+			],
+			[
+				"tim",
+				"time"
+			],
+			[
+				"conta",
+				"contacts"
+			],
+			[
+				"btn",
+				"btn-danger"
+			],
+			[
+				"dele",
+				"deleted"
+			],
+			[
+				"mapp",
+				"mappedPerson"
+			],
+			[
+				"currentS",
+				"currentSelectedCompany\t(CompanyManagementController.js)"
+			],
+			[
+				"compa",
+				"companyManagementCtrl"
+			],
+			[
+				"tex",
+				"text"
+			],
+			[
+				"m-b-",
+				"m-b-5\t ui.css"
+			],
+			[
+				"compan",
+				"companyEntities\t(CompanyManagementController.js)"
+			],
+			[
+				"mul",
+				"multiple\t(ContactEdit.html)"
+			],
+			[
+				"ngre",
+				"ng-repeat"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"ng-",
+				"ng-click"
+			],
+			[
+				"a",
+				"a\t<a>"
+			],
+			[
+				"center",
+				"text-center\t ui.css"
+			],
+			[
+				"$",
+				"$timeout"
+			],
+			[
+				"cance",
+				"cancelActions"
+			],
+			[
+				"control",
+				"controller"
+			],
+			[
+				"curre",
+				"currentSelectedCompany"
+			],
+			[
+				"selec",
+				"selectCompany"
+			],
+			[
+				"no",
+				"notification\t style.css"
+			],
+			[
+				"com",
+				"companyId"
+			],
+			[
+				"style",
+				"style\tAttr"
+			],
+			[
+				"CHA",
+				"CHANGE_COMPANY\t(mainModule.js)"
+			],
+			[
+				"user",
+				"userId"
+			],
+			[
+				"coma",
+				"companyName"
+			],
+			[
+				"compnay",
+				"company"
+			],
+			[
+				"controll",
+				"controller"
+			],
+			[
+				"ng",
+				"ng-click"
+			],
+			[
+				"projec",
+				"projectEntities"
+			],
+			[
+				"projecsele",
+				"projectSelectionModel"
+			],
+			[
+				"main",
+				"mainChannelService"
+			],
+			[
+				"contac",
+				"contactId"
+			],
+			[
+				"des",
+				"description"
+			],
+			[
+				"DELE",
+				"DELETE_PROJECT\t(mainModule.js)"
+			],
+			[
+				"btn-d",
+				"btn-default"
+			],
+			[
+				"cancelbtn",
+				"cancelBtnStyle\t(genericModal.js)"
+			],
+			[
+				"deletepro",
+				"deleteProjectConfirmation"
+			],
+			[
+				"m-r",
+				"m-r-10\t(ui.css)"
+			],
+			[
+				"tri",
+				"trigger\t.trigger()"
+			],
+			[
+				"ini",
+				"initialize"
+			],
+			[
+				"selected",
+				"selectedProject"
+			],
+			[
+				"docu",
+				"documentsEntities"
+			],
+			[
+				"isD",
+				"isDetail"
+			],
+			[
+				"result",
+				"results"
+			],
+			[
+				"TA",
+				"TASKS\t(mainModule.js)"
+			],
+			[
+				"docum",
+				"documentEntities"
+			],
+			[
+				"project",
+				"projectId"
+			],
+			[
+				"Docu",
+				"Documents\t(projects.html)"
+			],
+			[
+				"nav",
+				"navigationTabs.HISTORY\t(ProjectsList.html)"
+			],
+			[
+				"contro",
+				"controller"
+			],
+			[
+				"H",
+				"HISTORY\t(mainModule.js)"
+			],
+			[
+				"sele",
+				"selected\t(Tasks.html)"
+			],
+			[
+				"btn-",
+				"btn-default"
+			],
+			[
+				"pro",
+				"project"
+			],
+			[
+				"proj",
+				"projectId"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 378,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/LearnWithApp.js",
+			"settings":
+			{
+				"buffer_size": 42,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "navigation/Nav.js",
+			"settings":
+			{
+				"buffer_size": 343,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "controllers/LoginCtrl.js",
+			"settings":
+			{
+				"buffer_size": 140,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "controllers/MainScreenCtrl.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 327.0,
+		"last_filter": "remo",
+		"selected_items":
+		[
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"destro",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"clone righ",
+				"Origami: Clone File to Pane on the Right"
+			],
+			[
+				"whites",
+				"Highlight Whitespaces: Toggle"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"trim",
+				"Trimmer: Trim trailing whitespace."
+			],
+			[
+				"high",
+				"Highlight Whitespaces: Toggle"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"book",
+				"SublimeBookmarks: Goto Bookmark"
+			],
+			[
+				"clone ri",
+				"Origami: Clone File to Pane on the Right"
+			],
+			[
+				"snippe an",
+				"Snippet: Angular.js"
+			],
+			[
+				"beau",
+				"HTMLBeautify"
+			],
+			[
+				"linter",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"lint",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"bookma",
+				"Bookmarks: Clear All"
+			],
+			[
+				"new f",
+				"File: New File Relative to Current View"
+			],
+			[
+				"clone pane a",
+				"Origami: Clone File to Pane Above"
+			],
+			[
+				"move pane b",
+				"Origami: Move File to Pane Below"
+			],
+			[
+				"des",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"move pane le",
+				"Origami: Move File to Pane on the Left"
+			],
+			[
+				"pane be",
+				"Origami: Move File to Pane Below"
+			],
+			[
+				"create rig",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"destr",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"ori",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"WOR",
+				"Word Wrap: Toggle"
+			],
+			[
+				"boxy",
+				"Boxy Theme: Configuration"
+			],
+			[
+				"",
+				"Boxy Theme: Activation"
+			],
+			[
+				"th",
+				"Themr: List themes"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"the",
+				"Themr: List themes"
+			],
+			[
+				"reve",
+				"File: Reveal"
+			],
+			[
+				"reveal",
+				"File: Reveal"
+			],
+			[
+				"new fi",
+				"File: New File Relative to Current View"
+			],
+			[
+				"pane r",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"enabkl",
+				"Package Control: Enable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"pane ro",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"clone",
+				"Origami: Clone File to Pane Below"
+			],
+			[
+				"angular",
+				"AngularJS: Rebuild Search Index"
+			]
+		],
+		"width": 486.0
+	},
+	"console":
+	{
+		"height": 198.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/tcastillo/OfficeTools/LearnWith/New folder/Nav.js",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Views/Home/SetupCompanies.cshtml",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Scripts/Angular/Services/Repositories/staffManagmentRepository.js",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Scripts/Angular/Controllers/StaffManagment/StaffManagmentController.js",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Scripts/Angular/Controllers/CompanySettings/OfficesSettingsController.js",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Static/Views/Templates/CompanySettings/Offices/OfficesStaffEdit.html",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Static/Views/Templates/CompanySettings/Offices/Offices.html",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Static/Views/Templates/CompanySettings/Offices/OfficesList.html",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Scripts/Angular/Controllers/RightSidebarActions/ActivitiesController.js",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Scripts/Angular/Services/Repositories/activitiesRepository.js",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Views/Home/ActivityList.cshtml",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Scripts/Angular/mainModule.js",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Scripts/Angular/Services/Utils/activityListService.js",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Scripts/Angular/Services/Utils/activityFilterService.js",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Scripts/Angular/Controllers/Filters/ActivityFilterController.js",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Scripts/js/plugins.js",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Scripts/js/widgets/activity_list.js",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Static/Views/Templates/Modals/activityListFilter.html",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Scripts/Angular/Directives/ModalSettings/activityListFilter.js",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Static/Views/Templates/Sidebar/ActivityList/activityListSidebarTab.html",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Content/css/custom.css",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Content/css/custom-undocked.css",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Static/Views/Templates/Undocked/activityListUndocked.html",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Views/Home/Index.cshtml",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Static/Views/Templates/Contacts/Details/ContactEdit.html",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Scripts/Angular/Directives/ModalSettings/genericModal.js",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Static/Views/Templates/Modals/genericModal.html",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Scripts/Angular/Controllers/Tasks/TasksController.js",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Scripts/Angular/Directives/Undocked/singleEditTextInput.js",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Static/Views/Templates/Undocked/SingleEditTextInput.html",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Scripts/Angular/Directives/Contacts/Details/contactEditTextInput.js",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Static/Views/Templates/Contacts/Details/ContactEditTextInput.html",
+		"/C/Users/tcastillo/OfficeTools/Crexendo/app.js",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Scripts/Angular/Directives/loading.js",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Static/Views/Templates/Loading.html",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Static/Views/Templates/Tasks/Checklist.html",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Scripts/Angular/Services/Channelling/mainChannelService.js",
+		"/C/Users/tcastillo/OfficeTools/otp-client/OfficeTools.jwtAPI/Models/ViewModels/SignalR/ResponseSignalR.cs",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Scripts/Angular/Controllers/Documents/documentsController.js",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Scripts/Angular/Controllers/CompanyManagement/CompanyManagementController.js",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Scripts/Angular/Controllers/Projects/ProjectsController.js",
+		"/C/Users/tcastillo/OfficeTools/otp-client/OfficeTools.jwtAPI/Models/ViewModels/SearchParameters/Result/ActivityListUpdateResultViewModel.cs",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Static/Views/Templates/Projects/projects.html",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Static/Views/Templates/Projects/Tabs/WorklistProjectTab.html",
+		"/C/Users/tcastillo/OfficeTools/otp-client/OfficeTools.jwtAPI/Models/ViewModelMappingProfile.cs",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Static/Views/Templates/TopBar/TopBar.html",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Static/Views/Templates/Documents/DocumentsList.html",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Scripts/Angular/Controllers/ChangeCompany/ChangeCompanyController.js",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Static/Views/Templates/Projects/ProjectsList.html",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Static/Views/Templates/ChangeCompany/ChangeCompany.html",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Static/Views/Templates/ToolBar/ToolBar.html",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Scripts/Angular/Controllers/Contacts/ContactCardController.js",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Static/Views/Templates/Contacts/ContactCardContainer.html",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Scripts/Angular/Directives/dateTimePicker.js",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Static/Views/Templates/Tasks/tasksContent.html",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Scripts/Angular/Services/Utils/taskService.js",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Scripts/Angular/Directives/Sidebar/infiniteScrollSidebar.js",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Content/plugins/timepicker/jquery-ui-timepicker-addon.js",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Scripts/Angular/Directives/onEnter.js",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Content/plugins/bootstrap-editable/js/bootstrap-editable.js",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Scripts/Angular/Controllers/MainContent/ContactContentController.js",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Scripts/js/widgets/notes.js",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Project_Readme.html",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Scripts/Angular/Directives/Undocked/singleEditText.js",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Scripts/Angular/Controllers/TopBar/TopBarController.js",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Scripts/Angular/Controllers/ToolBar/ToolBarController.js",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Content/css/ui.css",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Scripts/Angular/Directives/Tasks/tasksContextMenu.js",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Static/Views/Templates/Tasks/TasksContextMenu.html",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Static/Views/Templates/Tasks/TasksList.html",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Scripts/Angular/Directives/Sidebar/activityListSidebarTab.js",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Scripts/Angular/Directives/Tasks/tasksContent.js",
+		"/C/Users/tcastillo/OfficeTools/otp-client/OfficeTools.Core/Services/Implementations/ActivityListService.cs",
+		"/C/Users/tcastillo/OfficeTools/otp-client/OfficeTools.jwtAPI/Controllers/ActivityListController.cs",
+		"/C/Users/tcastillo/Downloads/AutoHotkey.ahk",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Content/plugins/prettify/prettify.css",
+		"/C/Users/tcastillo/OfficeTools/otp-client/OfficeTools.jwtAPI/Web.config",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Scripts/Angular/Services/Utils/contactConnectionsService.js",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Scripts/Angular/Services/Repositories/officesRepository.js",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Static/Views/Templates/Tasks/Reminders.html",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Scripts/Angular/Directives/CompanySettings/Offices/officesStaffEdit.js",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Static/Views/Templates/CompanySettings/Offices/OfficesForm.html",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Static/Views/Templates/CompanySettings/Offices/OfficesCreate.html",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Content/css/company-settings.css",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Static/Views/Templates/CompanySettings/ContactGroups/ContactGroupDetails.html",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Views/Home/CompanySettings.cshtml",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Scripts/Angular/Directives/CompanySettings/Offices/offices.js",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Scripts/Angular/Controllers/CompanySettings/CompanySettingsController.js",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Scripts/Angular/Directives/CompanySettings/Offices/officesList.js",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Scripts/Angular/Services/Repositories/TaskTypeRepository.js",
+		"/C/Users/tcastillo/OfficeTools/otp-client/OfficeTools.Core/Repositories/Implementations/TaskTypeRepository.cs",
+		"/C/Users/tcastillo/OfficeTools/otp-client/OfficeTools.Core/DAL/EntityFramework/Initializers/DBInitializer.cs",
+		"/C/Users/tcastillo/OfficeTools/otp-client/OfficeTools.Core/Services/Implementations/DocumentsService.cs",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Scripts/Angular/Services/Utils/recordDatesService.js",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Scripts/Angular/Services/Utils/notificationMessageService.js",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Static/Views/Templates/Tasks/Tasks.html",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Scripts/Angular/Services/Repositories/tasksRepository.js",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Scripts/Angular/Directives/Tasks/tasksList.js",
+		"/C/Users/tcastillo/OfficeTools/otp-client/OfficeTools.Core/Repositories/Implementations/ContactsRepository.cs",
+		"/C/Users/tcastillo/OfficeTools/otp-client/OfficeTools.Core/Services/Implementations/ContactsService.cs",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Static/Views/Templates/Contacts/ContactConnections.html",
+		"/C/Users/tcastillo/OfficeTools/otp-client/.gitignore",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Controllers/HomeController.cs",
+		"/C/Users/tcastillo/Downloads/Office.json",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Scripts/Angular/Services/Repositories/CompanyManagementRepository.js",
+		"/C/Users/tcastillo/Downloads/Addresses.json",
+		"/C/Users/tcastillo/Downloads/localhost.har",
+		"/C/Users/tcastillo/Desktop/checklistDefMonge.txt",
+		"/C/Users/tcastillo/Desktop/dropBD8otp.bat",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Views/Home/Staff.cshtml",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Static/Views/Templates/Projects/ProjectForm.html",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Static/Views/Templates/CompanySettings/NotificationMessage.html",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Scripts/Angular/Directives/CompanySettings/notificationMessage.js",
+		"/C/Users/tcastillo/OfficeTools/otp-client/OfficeTools.Core/DAL/EntityFramework/Company.cs",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Static/Views/Templates/Staff/StaffPersonAdd.html",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Static/Views/Templates/Staff/UserAccountStaffPersonEdit.html",
+		"/C/Users/tcastillo/OfficeTools/otp-client/OfficeTools.Core/DAL/EntityFramework/Event.cs",
+		"/C/Users/tcastillo/OfficeTools/otp-client/OfficeTools.jwtAPI/Controllers/StaffController.cs",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Static/Views/Templates/Staff/UserAccountStaffPersonShow.html",
+		"/C/Users/tcastillo/OfficeTools/otp-client/Officetools.FrontEnd/Scripts/Angular/Controllers/StaffManagment/CompanyManagmentController.js",
+		"/C/Users/tcastillo/OfficeTools/otp-client/OfficeTools.Core/DAL/EntityFramework/Contact.cs",
+		"/C/Users/tcastillo/OfficeTools/otp-client/OfficeTools.Core/DAL/EntityFramework/Person.cs",
+		"/C/Users/tcastillo/Downloads/Person.json",
+		"/C/Users/tcastillo/OfficeTools/otp-client/OfficeTools.Core/DAL/EntityFramework/Office.cs",
+		"/C/Users/tcastillo/OfficeTools/otp-client/OfficeTools.Core/DAL/EntityFramework/DeliveryItem.cs",
+		"/C/Users/tcastillo/OfficeTools/otp-client/OfficeTools.Core/DAL/EntityFramework/Employee.cs",
+		"/C/Users/tcastillo/OfficeTools/otp-client/OfficeTools.Core/Business/Global/Enums.cs",
+		"/C/Users/tcastillo/Downloads/Person (1).json"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 103.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"orderByArray",
+			"searchParams",
+			"searchStaff",
+			"getStaffForCompany",
+			"staff",
+			"reloadActivitiesForStaff",
+			"updateFilterState",
+			"remove",
+			"typesfilter",
+			"sortbyr",
+			"res",
+			"rese",
+			"reset",
+			"inputSelect",
+			"select",
+			"select2",
+			"select",
+			".select2",
+			"saveFilters",
+			"filters",
+			"sortopti",
+			"mapSortParameters",
+			"setSortUndocked",
+			"hasReachedActivitesMaxResult",
+			"searchact",
+			"hasReachedActivitesMaxResults",
+			"maxres",
+			"activityListSummary",
+			"history",
+			"budget",
+			"toggleAsc",
+			"iconsForOrderInUndocked",
+			"infinite",
+			"saveSort",
+			"toggleas",
+			"activitiesSortConditions",
+			"init",
+			"activitySort",
+			"reloadActivitiesForStaff",
+			"reloadForFilter",
+			"reloadForSort",
+			"reloadActivitiesForStaff",
+			"reload",
+			"prepareActivitiesSearchParams",
+			"reloadForFilter",
+			"paramsForActivitiesSearch",
+			"changepr",
+			"loadingActions",
+			"enter",
+			"currentEditActivity",
+			";\n",
+			"activityState",
+			"4px",
+			"4p",
+			"overdue",
+			"overdueMark",
+			"loading-spinner",
+			"loading",
+			"append-icon",
+			"loading",
+			"overdue-mark",
+			"loading",
+			"activityPopUpEntities",
+			"singleedit",
+			"directive('singleEditTextInput",
+			"editmode",
+			"EditMode",
+			"isEditMode",
+			"subject",
+			"updateac",
+			"changeduedate",
+			"activity.loading",
+			"select2",
+			"changedue",
+			"activityData",
+			"toggleComplete",
+			"activityStateUncomplete",
+			"updateActivitiesWithTaskEdition",
+			"updateActivity",
+			"changePriority",
+			"completeActivityListItem",
+			"completeSelectedActivities",
+			"completeActivityListItem",
+			"completeSe",
+			"completeac",
+			"changedueda",
+			"jadcf",
+			"select",
+			"completeac",
+			"updateActivitiesWithTaskEdition",
+			"showTooltip",
+			"setbudgetHoursTotal",
+			"mainchann",
+			"selectedStaffForSearch",
+			"activityShouldBeUpdated",
+			"updateActivitiesWithTaskEdition",
+			"map",
+			"clearfix",
+			"UpdateTasksListEdit",
+			"notify",
+			"update",
+			"prepareActivitiesSearchParams",
+			"searchActivitiesForStaff",
+			"updateActivitiesWithTaskEdition",
+			"notify",
+			"cogs",
+			"getDocumentsForProject",
+			"budget_hours",
+			"earchActivitiesForStaf",
+			"timezoneOffsetNumber",
+			"now",
+			"priority",
+			"$apply",
+			"apply",
+			"on-enter",
+			"widget",
+			"widget-content",
+			"Timepicker",
+			"Timepicker ",
+			"currentText",
+			"datetimepicker",
+			"datetimePicker",
+			"is_RTL",
+			"on-enter",
+			"dateIsUTC",
+			"onblur",
+			"changedue",
+			"single-edit-text"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"controller.paramsForActivitiesSearch",
+			"currentEditValue",
+			"activity.data",
+			"enableTooltip",
+			"controller.tabs",
+			"staffMember",
+			"officesCtrl",
+			"ContactSelected",
+			"time(\"ActivityListController",
+			"controller.paramsForSearch",
+			"orderByTags",
+			"selectedCompanies",
+			"companyManagementCtrl",
+			"companyManagmentCtrl",
+			"'",
+			"Second",
+			"First",
+			"Extension",
+			"Description",
+			"Number",
+			"Country",
+			"'",
+			"",
+			"/",
+			"showDeleteProjectModal",
+			"searchFieldForProjectList",
+			"recordModifiedDate",
+			"",
+			"document",
+			"SEARCH_PROJECT_HISTORY",
+			"selectedProject.id",
+			"searchProjectSystemHistory",
+			"navigationTabs"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 378,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								378,
+								378
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										373,
+										377
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1,
+										5
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tabs_extra_last_activated": 1481660850.06,
+							"tabs_extra_last_activated_sheet_index": 0
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/LearnWithApp.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 42,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								42,
+								42
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/TronLegacy (SL).tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tabs_extra_last_activated": 1481660851.35,
+							"tabs_extra_last_activated_sheet_index": 1,
+							"tabs_extra_spawned": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "navigation/Nav.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 343,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								343,
+								343
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tabs_extra_last_activated": 1481659707.47,
+							"tabs_extra_last_activated_sheet_index": 2,
+							"tabs_extra_spawned": true,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "controllers/LoginCtrl.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 140,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								140,
+								140
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tabs_extra_last_activated": 1481659704.86,
+							"tabs_extra_last_activated_sheet_index": 3,
+							"tabs_extra_spawned": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "controllers/MainScreenCtrl.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tabs_extra_last_activated": 1481659628.16,
+							"tabs_extra_last_activated_sheet_index": 4,
+							"tabs_extra_spawned": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "learnWith.sublime-project",
+	"replace":
+	{
+		"height": 74.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"setupc",
+				"Officetools.FrontEnd\\Views\\Home\\SetupCompanies.cshtml"
+			],
+			[
+				"staffrepo",
+				"Officetools.FrontEnd\\Scripts\\Angular\\Services\\Repositories\\staffManagmentRepository.js"
+			],
+			[
+				"officescontr",
+				"Officetools.FrontEnd\\Scripts\\Angular\\Controllers\\CompanySettings\\OfficesSettingsController.js"
+			],
+			[
+				"officessta",
+				"Officetools.FrontEnd\\Static\\Views\\Templates\\CompanySettings\\Offices\\OfficesStaffEdit.html"
+			],
+			[
+				"offices",
+				"Officetools.FrontEnd\\Static\\Views\\Templates\\CompanySettings\\Offices\\Offices.html"
+			],
+			[
+				"officesl",
+				"Officetools.FrontEnd\\Static\\Views\\Templates\\CompanySettings\\Offices\\OfficesList.html"
+			],
+			[
+				"filterser",
+				"Officetools.FrontEnd\\Scripts\\Angular\\Services\\Utils\\activityFilterService.js"
+			],
+			[
+				"acser",
+				"Officetools.FrontEnd\\Scripts\\Angular\\Services\\Utils\\activityListService.js"
+			],
+			[
+				"acf",
+				"Officetools.FrontEnd\\Scripts\\Angular\\Controllers\\Filters\\ActivityFilterController.js"
+			],
+			[
+				"activity",
+				"Officetools.FrontEnd\\Scripts\\js\\widgets\\activity_list.js"
+			],
+			[
+				"acticsht",
+				"Officetools.FrontEnd\\Views\\Home\\ActivityList.cshtml"
+			],
+			[
+				"alf",
+				"Officetools.FrontEnd\\Scripts\\Angular\\Directives\\ModalSettings\\activityListFilter.js"
+			],
+			[
+				"index",
+				"Officetools.FrontEnd\\Views\\Home\\Index.cshtml"
+			],
+			[
+				"contacted",
+				"Officetools.FrontEnd\\Static\\Views\\Templates\\Contacts\\Details\\ContactEdit.html"
+			],
+			[
+				"activityfilter",
+				"Officetools.FrontEnd\\Static\\Views\\Templates\\Modals\\activityListFilter.html"
+			],
+			[
+				"mainmo",
+				"Officetools.FrontEnd\\Scripts\\Angular\\mainModule.js"
+			],
+			[
+				"generi",
+				"Officetools.FrontEnd\\Scripts\\Angular\\Directives\\ModalSettings\\genericModal.js"
+			],
+			[
+				"filterserv",
+				"Officetools.FrontEnd\\Scripts\\Angular\\Services\\Utils\\activityFilterService.js"
+			],
+			[
+				"sei",
+				"Officetools.FrontEnd\\Scripts\\Angular\\Directives\\Undocked\\singleEditTextInput.js"
+			],
+			[
+				"contacei",
+				"Officetools.FrontEnd\\Static\\Views\\Templates\\Contacts\\Details\\ContactEditTextInput.html"
+			],
+			[
+				"customun",
+				"Officetools.FrontEnd\\Content\\css\\custom-undocked.css"
+			],
+			[
+				"ceti",
+				"Officetools.FrontEnd\\Static\\Views\\Templates\\Contacts\\Details\\ContactEditTextInput.html"
+			],
+			[
+				"seti",
+				"Officetools.FrontEnd\\Scripts\\Angular\\Directives\\Undocked\\singleEditTextInput.js"
+			],
+			[
+				"aclicshtm",
+				"Officetools.FrontEnd\\Views\\Home\\ActivityList.cshtml"
+			],
+			[
+				"checkhtml",
+				"Officetools.FrontEnd\\Static\\Views\\Templates\\Tasks\\Checklist.html"
+			],
+			[
+				"custom",
+				"Officetools.FrontEnd\\Content\\css\\custom.css"
+			],
+			[
+				"cus",
+				"Officetools.FrontEnd\\Content\\css\\custom.css"
+			],
+			[
+				"acticshtl",
+				"Officetools.FrontEnd\\Views\\Home\\ActivityList.cshtml"
+			],
+			[
+				"undockcsh",
+				"Officetools.FrontEnd\\Static\\Views\\Templates\\Undocked\\activityListUndocked.html"
+			],
+			[
+				"undocked",
+				"Officetools.FrontEnd\\Static\\Views\\Templates\\Undocked\\activityListUndocked.html"
+			],
+			[
+				"main",
+				"Officetools.FrontEnd\\Scripts\\Angular\\mainModule.js"
+			],
+			[
+				"mainc",
+				"Officetools.FrontEnd\\Scripts\\Angular\\Services\\Channelling\\mainChannelService.js"
+			],
+			[
+				"actiser",
+				"Officetools.FrontEnd\\Scripts\\Angular\\Services\\Utils\\activityListService.js"
+			],
+			[
+				"compcontro",
+				"Officetools.FrontEnd\\Scripts\\Angular\\Controllers\\CompanyManagement\\CompanyManagementController.js"
+			],
+			[
+				"projectscontr",
+				"Officetools.FrontEnd\\Scripts\\Angular\\Controllers\\Projects\\ProjectsController.js"
+			],
+			[
+				"tasksc",
+				"Officetools.FrontEnd\\Scripts\\Angular\\Controllers\\Tasks\\TasksController.js"
+			],
+			[
+				"actiside",
+				"Officetools.FrontEnd\\Static\\Views\\Templates\\Sidebar\\ActivityList\\activityListSidebarTab.html"
+			],
+			[
+				"acrepo",
+				"Officetools.FrontEnd\\Scripts\\Angular\\Services\\Repositories\\activitiesRepository.js"
+			],
+			[
+				"activitylistupda",
+				"OfficeTools.jwtAPI\\Models\\ViewModels\\SearchParameters\\Result\\ActivityListUpdateResultViewModel.cs"
+			],
+			[
+				"acticontro",
+				"Officetools.FrontEnd\\Scripts\\Angular\\Controllers\\RightSidebarActions\\ActivitiesController.js"
+			],
+			[
+				"viewmodel",
+				"OfficeTools.jwtAPI\\Models\\ViewModelMappingProfile.cs"
+			],
+			[
+				"worklist",
+				"Officetools.FrontEnd\\Static\\Views\\Templates\\Projects\\Tabs\\WorklistProjectTab.html"
+			],
+			[
+				"porejcts",
+				"Officetools.FrontEnd\\Static\\Views\\Templates\\Projects\\projects.html"
+			],
+			[
+				"projectslis",
+				"Officetools.FrontEnd\\Static\\Views\\Templates\\Projects\\ProjectsList.html"
+			],
+			[
+				"companymana",
+				"Officetools.FrontEnd\\Scripts\\Angular\\Controllers\\CompanyManagement\\CompanyManagementController.js"
+			],
+			[
+				"changecom",
+				"Officetools.FrontEnd\\Scripts\\Angular\\Controllers\\ChangeCompany\\ChangeCompanyController.js"
+			],
+			[
+				"doculis",
+				"Officetools.FrontEnd\\Static\\Views\\Templates\\Documents\\DocumentsList.html"
+			],
+			[
+				"changecompa",
+				"Officetools.FrontEnd\\Static\\Views\\Templates\\ChangeCompany\\ChangeCompany.html"
+			],
+			[
+				"topbar",
+				"Officetools.FrontEnd\\Static\\Views\\Templates\\TopBar\\TopBar.html"
+			],
+			[
+				"toolbar",
+				"Officetools.FrontEnd\\Static\\Views\\Templates\\ToolBar\\ToolBar.html"
+			],
+			[
+				"gene",
+				"Officetools.FrontEnd\\Static\\Views\\Templates\\Modals\\genericModal.html"
+			],
+			[
+				"gener",
+				"Officetools.FrontEnd\\Scripts\\Angular\\Directives\\ModalSettings\\genericModal.js"
+			],
+			[
+				"companies",
+				"Officetools.FrontEnd\\Views\\Home\\SetupCompanies.cshtml"
+			],
+			[
+				"documentlis",
+				"Officetools.FrontEnd\\Static\\Views\\Templates\\Documents\\DocumentsList.html"
+			],
+			[
+				"projectscon",
+				"Officetools.FrontEnd\\Scripts\\Angular\\Controllers\\Projects\\ProjectsController.js"
+			],
+			[
+				"project",
+				"Officetools.FrontEnd\\Static\\Views\\Templates\\Projects\\projects.html"
+			],
+			[
+				"contactcardc",
+				"Officetools.FrontEnd\\Scripts\\Angular\\Controllers\\Contacts\\ContactCardController.js"
+			],
+			[
+				"contactcar",
+				"Officetools.FrontEnd\\Static\\Views\\Templates\\Contacts\\ContactCardContainer.html"
+			],
+			[
+				"tasksserjs",
+				"Officetools.FrontEnd\\Scripts\\Angular\\Services\\Utils\\taskService.js"
+			],
+			[
+				"contactcontro",
+				"Officetools.FrontEnd\\Scripts\\Angular\\Controllers\\MainContent\\ContactContentController.js"
+			],
+			[
+				"infinite",
+				"Officetools.FrontEnd\\Scripts\\Angular\\Directives\\Sidebar\\infiniteScrollSidebar.js"
+			],
+			[
+				"notes",
+				"Officetools.FrontEnd\\Scripts\\js\\widgets\\notes.js"
+			],
+			[
+				"contaeditex",
+				"Officetools.FrontEnd\\Scripts\\Angular\\Directives\\Contacts\\Details\\contactEditTextInput.js"
+			],
+			[
+				"inde",
+				"Officetools.FrontEnd\\Views\\Home\\Index.cshtml"
+			],
+			[
+				"tasksconte",
+				"Officetools.FrontEnd\\Static\\Views\\Templates\\Tasks\\tasksContent.html"
+			],
+			[
+				"taskscontr",
+				"Officetools.FrontEnd\\Scripts\\Angular\\Controllers\\Tasks\\TasksController.js"
+			],
+			[
+				"contactedit",
+				"Officetools.FrontEnd\\Static\\Views\\Templates\\Contacts\\Details\\ContactEdit.html"
+			],
+			[
+				"activicontro",
+				"Officetools.FrontEnd\\Scripts\\Angular\\Controllers\\RightSidebarActions\\ActivitiesController.js"
+			],
+			[
+				"contactcard",
+				"Officetools.FrontEnd\\Static\\Views\\Templates\\Contacts\\ContactCardContainer.html"
+			],
+			[
+				"toolbarc",
+				"Officetools.FrontEnd\\Scripts\\Angular\\Controllers\\ToolBar\\ToolBarController.js"
+			],
+			[
+				"taskcontex",
+				"Officetools.FrontEnd\\Scripts\\Angular\\Directives\\Tasks\\tasksContextMenu.js"
+			],
+			[
+				"tasklis",
+				"Officetools.FrontEnd\\Static\\Views\\Templates\\Tasks\\TasksList.html"
+			],
+			[
+				"tasklist",
+				"Officetools.FrontEnd\\Static\\Views\\Templates\\Tasks\\TasksList.html"
+			],
+			[
+				"taskcoten",
+				"Officetools.FrontEnd\\Static\\Views\\Templates\\Tasks\\tasksContent.html"
+			],
+			[
+				"topbacon",
+				"Officetools.FrontEnd\\Scripts\\Angular\\Controllers\\TopBar\\TopBarController.js"
+			],
+			[
+				"aclisi",
+				"Officetools.FrontEnd\\Scripts\\Angular\\Directives\\Sidebar\\activityListSidebarTab.js"
+			],
+			[
+				"taskcon",
+				"Officetools.FrontEnd\\Scripts\\Angular\\Directives\\Tasks\\tasksContent.js"
+			],
+			[
+				"taskscontro",
+				"Officetools.FrontEnd\\Scripts\\Angular\\Controllers\\Tasks\\TasksController.js"
+			],
+			[
+				"aclisid",
+				"Officetools.FrontEnd\\Static\\Views\\Templates\\Sidebar\\ActivityList\\activityListSidebarTab.html"
+			],
+			[
+				"taskcontetn",
+				"Officetools.FrontEnd\\Static\\Views\\Templates\\Tasks\\tasksContent.html"
+			],
+			[
+				"actirepo",
+				"Officetools.FrontEnd\\Scripts\\Angular\\Services\\Repositories\\activitiesRepository.js"
+			],
+			[
+				"actifilt",
+				"Officetools.FrontEnd\\Scripts\\Angular\\Controllers\\Filters\\ActivityFilterController.js"
+			],
+			[
+				"actilist",
+				"Officetools.FrontEnd\\Static\\Views\\Templates\\Sidebar\\ActivityList\\activityListSidebarTab.html"
+			],
+			[
+				"custo",
+				"Officetools.FrontEnd\\Content\\css\\custom.css"
+			],
+			[
+				"taskcont",
+				"Officetools.FrontEnd\\Static\\Views\\Templates\\Tasks\\tasksContent.html"
+			],
+			[
+				"web",
+				"OfficeTools.jwtAPI\\Web.config"
+			],
+			[
+				"commacontr",
+				"Officetools.FrontEnd\\Scripts\\Angular\\Controllers\\CompanyManagement\\CompanyManagementController.js"
+			],
+			[
+				"setupcom",
+				"Officetools.FrontEnd\\Views\\Home\\SetupCompanies.cshtml"
+			],
+			[
+				"contactconnectse",
+				"Officetools.FrontEnd\\Scripts\\Angular\\Services\\Utils\\contactConnectionsService.js"
+			],
+			[
+				"officesstaf",
+				"Officetools.FrontEnd\\Static\\Views\\Templates\\CompanySettings\\Offices\\OfficesStaffEdit.html"
+			],
+			[
+				"commana",
+				"Officetools.FrontEnd\\Scripts\\Angular\\Controllers\\CompanyManagement\\CompanyManagementController.js"
+			],
+			[
+				"toolbarht",
+				"Officetools.FrontEnd\\Static\\Views\\Templates\\ToolBar\\ToolBar.html"
+			],
+			[
+				"topbarcontr",
+				"Officetools.FrontEnd\\Scripts\\Angular\\Controllers\\TopBar\\TopBarController.js"
+			],
+			[
+				"contactcardcon",
+				"Officetools.FrontEnd\\Static\\Views\\Templates\\Contacts\\ContactCardContainer.html"
+			],
+			[
+				"afco",
+				"Officetools.FrontEnd\\Scripts\\Angular\\Controllers\\Filters\\ActivityFilterController.js"
+			],
+			[
+				"reminders",
+				"Officetools.FrontEnd\\Static\\Views\\Templates\\Tasks\\Reminders.html"
+			],
+			[
+				"officesrepo",
+				"Officetools.FrontEnd\\Scripts\\Angular\\Services\\Repositories\\officesRepository.js"
+			],
+			[
+				"staffmanare",
+				"Officetools.FrontEnd\\Scripts\\Angular\\Services\\Repositories\\staffManagmentRepository.js"
+			],
+			[
+				"officeslis",
+				"Officetools.FrontEnd\\Static\\Views\\Templates\\CompanySettings\\Offices\\OfficesList.html"
+			],
+			[
+				"officesfo",
+				"Officetools.FrontEnd\\Static\\Views\\Templates\\CompanySettings\\Offices\\OfficesForm.html"
+			],
+			[
+				"officescreat",
+				"Officetools.FrontEnd\\Static\\Views\\Templates\\CompanySettings\\Offices\\OfficesCreate.html"
+			],
+			[
+				"projectscontro",
+				"Officetools.FrontEnd\\Scripts\\Angular\\Controllers\\Projects\\ProjectsController.js"
+			],
+			[
+				"commacon",
+				"Officetools.FrontEnd\\Scripts\\Angular\\Controllers\\CompanyManagement\\CompanyManagementController.js"
+			],
+			[
+				"compahtml",
+				"Officetools.FrontEnd\\Views\\Home\\SetupCompanies.cshtml"
+			],
+			[
+				"officessettingscontroller",
+				"Officetools.FrontEnd\\Scripts\\Angular\\Controllers\\CompanySettings\\OfficesSettingsController.js"
+			],
+			[
+				"officesjs",
+				"Officetools.FrontEnd\\Scripts\\Angular\\Directives\\CompanySettings\\Offices\\offices.js"
+			],
+			[
+				"companysettingscontroller",
+				"Officetools.FrontEnd\\Scripts\\Angular\\Controllers\\CompanySettings\\CompanySettingsController.js"
+			],
+			[
+				"officesli",
+				"Officetools.FrontEnd\\Scripts\\Angular\\Directives\\CompanySettings\\Offices\\officesList.js"
+			],
+			[
+				"officelist",
+				"Officetools.FrontEnd\\Static\\Views\\Templates\\CompanySettings\\Offices\\OfficesList.html"
+			],
+			[
+				"officeshtml",
+				"Officetools.FrontEnd\\Static\\Views\\Templates\\CompanySettings\\Offices\\Offices.html"
+			],
+			[
+				"companyse",
+				"Officetools.FrontEnd\\Views\\Home\\CompanySettings.cshtml"
+			],
+			[
+				"ccser",
+				"Officetools.FrontEnd\\Scripts\\Angular\\Services\\Utils\\contactConnectionsService.js"
+			],
+			[
+				"top",
+				"Officetools.FrontEnd\\Scripts\\Angular\\Controllers\\TopBar\\TopBarController.js"
+			],
+			[
+				"ttr",
+				"Officetools.FrontEnd\\Scripts\\Angular\\Services\\Repositories\\TaskTypeRepository.js"
+			],
+			[
+				"cccon",
+				"Officetools.FrontEnd\\Scripts\\Angular\\Controllers\\MainContent\\ContactContentController.js"
+			],
+			[
+				"ccc",
+				"Officetools.FrontEnd\\Scripts\\Angular\\Controllers\\Contacts\\ContactCardController.js"
+			],
+			[
+				"alsb",
+				"Officetools.FrontEnd\\Static\\Views\\Templates\\Sidebar\\ActivityList\\activityListSidebarTab.html"
+			],
+			[
+				"acticon",
+				"Officetools.FrontEnd\\Scripts\\Angular\\Controllers\\RightSidebarActions\\ActivitiesController.js"
+			],
+			[
+				"actifil",
+				"Officetools.FrontEnd\\Scripts\\Angular\\Controllers\\Filters\\ActivityFilterController.js"
+			],
+			[
+				"companjs",
+				"Officetools.FrontEnd\\Scripts\\Angular\\Controllers\\CompanyManagement\\CompanyManagementController.js"
+			],
+			[
+				"tasktyperepo",
+				"OfficeTools.Core\\Repositories\\Implementations\\TaskTypeRepository.cs"
+			],
+			[
+				"documentsse",
+				"OfficeTools.Core\\Services\\Implementations\\DocumentsService.cs"
+			],
+			[
+				"dbini",
+				"OfficeTools.Core\\DAL\\EntityFramework\\Initializers\\DBInitializer.cs"
+			],
+			[
+				"pro",
+				"Officetools.FrontEnd\\Static\\Views\\Templates\\Projects\\projects.html"
+			],
+			[
+				"notifi",
+				"Officetools.FrontEnd\\Scripts\\Angular\\Services\\Utils\\notificationMessageService.js"
+			],
+			[
+				"compacshtml",
+				"Officetools.FrontEnd\\Views\\Home\\SetupCompanies.cshtml"
+			],
+			[
+				"projects",
+				"Officetools.FrontEnd\\Static\\Views\\Templates\\Projects\\projects.html"
+			],
+			[
+				"taskscon",
+				"Officetools.FrontEnd\\Static\\Views\\Templates\\Tasks\\tasksContent.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 183.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
